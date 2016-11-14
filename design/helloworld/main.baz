@@ -1,0 +1,8 @@
+
+import baz.Console
+
+module Main {
+  void main() {
+    Console::print("Hello world")
+  }
+}
